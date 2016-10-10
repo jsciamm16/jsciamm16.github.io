@@ -1,0 +1,97 @@
+html { 
+  background: url(savage-20.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+div {
+    margin: 0 auto; 
+}
+a:link, a:visited {
+    background-color: #595959;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    font-family: "Futura";
+}
+p {font-family: "Futura";
+	color: white;
+	text-align: center;  
+	font-size: 44px;
+	width: 100px
+	float: right;
+	
+	}
+	#head {
+    float: left;
+    position: clear;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21; 
+}
+#name
+	{
+	margin-top: 200px;
+	margin-right:30px;
+	margin-bottom: 200px;
+	margin-left: 100px;
+	position: absolute;
+	}
+
+a:hover, a:active {
+    background-color: none;
+}
+#footere {
+ background-color: #595959;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    font-family: "Futura";
+    }
+
+#footer  {
+	position:fixed;
+    left:0px;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    background: #595959;
+    width: 100%;
+    background-size: 100% 100%;
+    }
+#about_list {
+	font-family: "Futura";
+	color: white;
+	border: solid 2px #73AD21 
+	font-size: 25px;
+	margin-top: 220px;
+	margin-right: 200px;
+	position: fixed;
+	width: 400px;
+	}
+#info
+	{height: 400px;
+	width: 600px;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-bottom: 150px;
+	margin-left: 35%;
+	border: solid white 3px;
+
+	}
+	
+  
+
+
+
+
+
+
