@@ -87,8 +87,26 @@ a:hover, a:active {
 	border: solid white 3px;
 
 	}
-	
-  
+#resumepic
+	{height: 1200px;
+	width: 800px;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-bottom: 150px;
+	margin-left: 35%;
+	border: solid white 3px;
+
+	}
+#about_to_leave
+	{height: 400px;
+	width: 600px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-bottom: 150px;
+	margin-left: 100px;
+	border: solid white 3px;
+	position: fixed;
+	}
 
 
 
