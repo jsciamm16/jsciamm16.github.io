@@ -26,7 +26,7 @@ p {font-family: "Futura";
 	float: right;
 	
 	}
-	#head {
+#head {
     float: left;
     position: clear;
     width: 150px;
